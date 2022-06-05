@@ -1,0 +1,1 @@
+worker: python Info_Berlin_bot.py
